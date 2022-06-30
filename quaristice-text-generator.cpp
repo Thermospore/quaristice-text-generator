@@ -105,7 +105,7 @@ int main()
 				
 		if (input[0] == ' ')
 		{
-			for (int i = 0; i < (rand()%10 + 2 + extra); i++)
+			for (int i = 0; i < (rand()%10 + 3 + extra); i++)
 			{
 				myfile << " ";
 			}
